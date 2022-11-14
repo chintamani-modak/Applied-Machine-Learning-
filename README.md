@@ -1,1 +1,1 @@
-# Applied-Machine-Learning-NYC-Taxi-Trip-readme.md
+Applied Machine Learning covering NYC trip duration project covering EDA and Prediction 
